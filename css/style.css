@@ -8,6 +8,7 @@
 body {
   display: flex;
   gap: 200px;
+  min-height: 600px;
 }
 
 .get_in_touch {
